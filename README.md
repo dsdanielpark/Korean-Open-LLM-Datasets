@@ -3,8 +3,8 @@ Datasets which translated into korean.
 
 1. [KoAlpaca v1.0](https://huggingface.co/datasets/Bingsu/ko_alpaca_data)
 2. [KoAlpaca v1.1](https://raw.githubusercontent.com/Beomi/KoAlpaca/main/KoAlpaca_v1.1.jsonl)
-3. [ShareGPT DeepL 번역](https://huggingface.co/datasets/junelee/sharegpt_deepl_ko)
-4. [KoChatGPT 실습](https://github.com/airobotlab/KoChatGPT)
+3. [ShareGPT using DeepL](https://huggingface.co/datasets/junelee/sharegpt_deepl_ko)
+4. [KoChatGPT](https://github.com/airobotlab/KoChatGPT)
 5. [OIG-small-chip2-ko](https://huggingface.co/datasets/heegyu/OIG-small-chip2-ko)
 6. [Korquad-Chat](https://huggingface.co/datasets/heegyu/korquad-chat-v1)
 7. [AIRC-KETI/kowow](https://github.com/AIRC-KETI/kowow)
