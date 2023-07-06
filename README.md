@@ -13,5 +13,6 @@ Datasets which translated into korean.
 10. [CounselGPT](https://github.com/MrBananaHuman/CounselGPT)
 11. [Evolve-instruct](https://github.com/lcw99/evolve-instruct/)
 12. [KULLM v2](https://huggingface.co/datasets/nlpai-lab/kullm-v2)
+13. [SharGPT-74K-Kor-GoogleTranslator](https://huggingface.co/datasets/dbdu/ShareGPT-74k-ko)
 
 Please note that some of the links may require further preprocessing or have additional information available on the respective pages.
