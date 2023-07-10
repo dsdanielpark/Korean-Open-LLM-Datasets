@@ -1,4 +1,4 @@
-# Korean-Open-LLM-Datasets
+# Korean-Open-LLM-Datasets(KOLD)
 Datasets which translated into korean.
 
 1. [KoAlpaca v1.0](https://huggingface.co/datasets/Bingsu/ko_alpaca_data)
