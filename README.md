@@ -1,4 +1,4 @@
-# Korean-Open-LLM-Datasets(KOLD)
+# Korean-Open-LLM-Datasets(KOLD) Chain
 Korean Open LLM Dataset (KOLD)-Chain repository is designed to provide LLM (large language model) datasets in the Korean language for researchers. KOLD-Chain not only includes high-quality Korean datasets created under the Korean public institution but also incorporates functionality to transform Korean open datasets into a format suitable for LLM training and to address any obvious errors.
 
 In addition to various translation services, the repository includes a module to convert originally produced high-quality data in Korean into Korean language datasets. As the original data cannot be shared, researchers who obtain approval to download the dataset can utilize the complete data pipeline, which captures specific passages from the data and refines them to create an appropriate dataset.
