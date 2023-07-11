@@ -1,5 +1,6 @@
 # Korean-Open-LLM-Datasets(KOLD)
-Datasets for training Large Language Model(LLM).
+Korean Open LLM Dataset (KOLD)-Chain repository is designed to provide LLM (large language model) datasets in the Korean language for researchers. KOLD-Chain not only includes high-quality Korean datasets created under the Korean public institution but also incorporates functionality to transform Korean open datasets into a format suitable for LLM training and to address any obvious errors.
 
+In addition to various translation services, the repository includes a module to convert originally produced high-quality data in Korean into Korean language datasets. As the original data cannot be shared, researchers who obtain approval to download the dataset can utilize the complete data pipeline, which captures specific passages from the data and refines them to create an appropriate dataset.
 
-Please note that some of the links may require further preprocessing or have additional information available on the respective pages.
+Our aim is to assist researchers in reproducing the preprocessing and datasets used in research, thereby avoiding unnecessary time wastage. The GitHub repository is structured in a tree-like hierarchy, with each folder containing paired Hugging Face datasets and the preprocessing modules used.
