@@ -12,7 +12,7 @@ I have extracted translation pairs from the [junelee/sharegpt_deepl_ko](https://
 - `ko_shargpt_deepl_translate_cleaned_v1.json`: The dataset extracted and preprocessed using the algorithm to make only the Korean text more natural, as described above. [danielpark/ko_shargpt_deepl_translate_cleaned_v1](https://huggingface.co/datasets/danielpark/ko_shargpt_deepl_translate_cleaned_v1)
 - `ko_shargpt_deepl_cleaned_v2.json`: Certain portions have been manually deleted or corrected by human inspection from v1.
 
-
+<br>
 
 
 ### `#2` [ko_shargpt_google_translate_cleaned_v1.json](https://huggingface.co/datasets/danielpark/ko_shargpt_google_translate_cleaned_v1)
@@ -26,7 +26,7 @@ I have extracted translation pairs from the [dbdu/ShareGPT-74k-ko](https://huggi
 - `ko_shargpt_google_translate_cleaned_v1.json`: The dataset extracted and preprocessed using the algorithm to make only the Korean text more natural, as described above.
 - `ko_shargpt_google_translate_cleaned_v2.json`: Certain portions have been manually deleted or corrected by human inspection from v1.
 
-
+<br>
 
 
 ### `#Others`
