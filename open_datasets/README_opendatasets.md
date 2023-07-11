@@ -1,6 +1,6 @@
 
 ## DataSets
-###  `#1` [`danielpark/ko_shargpt_deepl_translate_cleaned_v1`](https://huggingface.co/datasets/danielpark/ko_shargpt_deepl_translate_cleaned_v1)
+###  `#1` [danielpark/ko_shargpt_deepl_translate_cleaned_v1](https://huggingface.co/datasets/danielpark/ko_shargpt_deepl_translate_cleaned_v1)
 
 I have extracted translation pairs from the [junelee/sharegpt_deepl_ko](https://huggingface.co/datasets/junelee/sharegpt_deepl_ko) dataset using [src/preprocessing/data_gen.py](https://github.com/dsdanielpark/ko-sharegpt-deepl-alpaca/blob/main/src/preprocessing/data_gen.py) and made some corrections to the parts that were awkwardly interpreted in Korean using the algorithm in [src/preprocessing/data_cleaner.py](https://github.com/dsdanielpark/ko-sharegpt-deepl-alpaca/blob/main/src/preprocessing/data_cleaner.py).
 
@@ -15,7 +15,7 @@ I have extracted translation pairs from the [junelee/sharegpt_deepl_ko](https://
 
 
 
-### `#2` [`ko_shargpt_google_translate_cleaned_v1.json`](https://huggingface.co/datasets/danielpark/ko_shargpt_google_translate_cleaned_v1)
+### `#2` [ko_shargpt_google_translate_cleaned_v1.json](https://huggingface.co/datasets/danielpark/ko_shargpt_google_translate_cleaned_v1)
 I have extracted translation pairs from the [dbdu/ShareGPT-74k-ko](https://huggingface.co/datasets/dbdu/ShareGPT-74k-ko/tree/main) dataset using 
 
 
